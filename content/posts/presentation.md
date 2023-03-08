@@ -1,10 +1,12 @@
 ---
-title: "Presentation"
-date: 2023-03-09T00:59:52+05:00
-draft: true
-toc: false
-images:
-tags:
-  - untagged
+marp: true
+
 ---
 
+# Демо работы CI/CD GitHub Action
+Диаграмма последовательности показывает процесс публикации изменений 
+статичного локального сайта на CMS HUGO в хостинг GitHub через CI/CD инструмент GitHub Action
+
+![CI/CD](/posts/seq_dia.svg)
+
+Схема не является каноничным и правильным отображеним процесса.
