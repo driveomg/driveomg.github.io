@@ -1,6 +1,6 @@
 ---
 marp: true
-
+date: 2023-03-11T00:26:03+05:00
 ---
 
 # Демо работы CI/CD GitHub Action
